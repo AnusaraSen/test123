@@ -21,7 +21,7 @@ public class Main {
 					
 					Scanner scanner = new Scanner (System.in);
 					
-					System.out.println("Input a value for Maximum number of subjects : ");
+					System.out.println("Input a value for Maximum number of subjects pcy : ");
 					maxSubjects = scanner.nextInt();
 					
 					for(int i = 0; i < maxSubjects; i++) {
