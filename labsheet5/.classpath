@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="exercise1"/>
 	<classpathentry kind="src" path="exercise2"/>
 	<classpathentry kind="src" path="exercise3"/>
+	<classpathentry kind="src" path="anura"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
